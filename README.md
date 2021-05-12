@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @BagelChips
-- 👀 I’m interested in chess and cats and coffee and record collecting and cool looking couches and home improvement. 
-     -- Really bought into hipster culture. May or may not have a moustache right now.--
-- 🌱 I’m currently learning Magento, BigCommerce, and to navigate the CLI. 
+- 👀 I’m interested in chess, coffee, record collecting, cool looking couches, vegetable gardens, and home improvement. 
+- 🌱 I’m currently learning CMS(Magento and BigCommerce) and to navigate the CLI. 
 - 🤝 https://www.linkedin.com/in/mark-riddell/
 - 📫 Mark.andrew.riddell@gmail.com
 - 📸 BagelChips
