@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning CMS(Magento and BigCommerce) and to navigate the CLI. 
 - 🤝 https://www.linkedin.com/in/mark-riddell/
 - 📫 Mark.andrew.riddell@gmail.com
-- 📸 BagelChips
+- 📸 BagelShips
