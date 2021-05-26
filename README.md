@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BagelChips
-- 👀 I’m interested in chess, coffee, record collecting, cool looking couches, vegetable gardens, and home improvement. 
+- 👀 I’m interested in coffee, cats, record collecting, vegetable gardens, and home improvement. 
 - 🌱 I’m currently learning RESTful APIs and Postman
 - 🤝 https://www.linkedin.com/in/mark-riddell/
 - 📫 Mark.andrew.riddell@gmail.com
